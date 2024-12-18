@@ -1,0 +1,22 @@
+﻿{
+  "Name": "Painting Display 1.6",
+  "Author": "aedenthorn, Mud",
+  "Version": "0.1.0",
+  "Description": "Painting Display for 1.6",
+  "UniqueID": "Mud.PaintingDisplay1.6",
+  "EntryDll": "PaintingDisplay.dll",
+  "MinimumApiVersion": "3.13.0",
+  "ModUpdater": {
+    "Repository": "StardewValleyMods",
+    "User": "TheMud",
+    "Directory": "_releases",
+    "ModFolder": "PaintingDisplay"
+  },
+  "UpdateKeys": [ "Nexus:" ],
+  "Dependencies": [
+    {
+      "UniqueID": "Platonymous.ModUpdater",
+      "IsRequired": false
+    }
+  ]
+}
